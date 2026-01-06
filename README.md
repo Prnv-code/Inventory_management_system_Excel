@@ -12,8 +12,7 @@ The dashboard provides a quick overview of:
 - Top Products & Top Customers
 - Low-stock notifications
 
-![Inventory Dashboard](<img width="1161" height="602" alt="1Dashboard" src="https://github.com/user-attachments/assets/60622803-fa98-43c3-9a91-ef59f8cfb61c" />
-)
+<img width="1161" height="602" alt="1Dashboard" src="https://github.com/user-attachments/assets/60622803-fa98-43c3-9a91-ef59f8cfb61c" />
 
 ---
 
@@ -41,8 +40,7 @@ The dashboard provides a quick overview of:
 ## 📥 Excel File
 
 👉 **Download the Excel Project File:**  
-[Inventory_Management_System.xlsx](Inventory_Management_System.xlsx)
-
+<a href="https://github.com/Prnv-code/Inventory_management_system_Excel/blob/main/inventory_mangement_system_ss/1Dashboard.png">View Dashboard</a>
 ---
 
 ## 👨‍💻 Author
