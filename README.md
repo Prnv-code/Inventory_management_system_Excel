@@ -40,7 +40,7 @@ The dashboard provides a quick overview of:
 ## 📥 Excel File
 
 👉 **Download the Excel Project File:**  
-<a href="[https://github.com/Prnv-code/Inventory_management_system_Excel/blob/main/inventory_mangement_system_ss/1Dashboard.png](https://github.com/Prnv-code/Inventory_management_system_Excel/blob/main/Inventory%20Management%20System.xlsx)">Excel File</a>
+<a href="https://github.com/Prnv-code/Inventory_management_system_Excel/blob/main/inventory_mangement_system_ss/1Dashboard.png](https://github.com/Prnv-code/Inventory_management_system_Excel/blob/main/Inventory%20Management%20System.xlsx">Excel File</a>
 ---
 
 ## 👨‍💻 Author
